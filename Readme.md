@@ -13,6 +13,13 @@ A fine-tuned Llama 3.2 1B model trained to answer questions about **BotCampus AI
 
 ---
 
+![](assets/Localmodel.png)
+![](assets/Leadmasters.png)
+![](assets/LeadmasterTools.png)
+![](assets/WhatisBotcampus.png)
+![](assets/BotcampusCourses.png)
+
+---
 ## 🏗️ How I Built This
 
 ### Tech Stack
